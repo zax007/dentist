@@ -122,13 +122,14 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 # myaccount.google.com/lesssecureapps
 # account.google.com/DisplayUnlockCaptcha
 # myaccount.google.com/apppasswords
+
 # Email Settings
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 465
 # EMAIL_PORT = '587'
-EMAIL_HOST_USER = 'zaxumar@gmail.com'
-EMAIL_HOST_PASSWORD = '!umzaks1985!'
+EMAIL_HOST_USER = 'temail659@gmail.com'
+EMAIL_HOST_PASSWORD = '!9g.5A<s~Jcj}zDx'
 EMAIL_USE_SSL = True
 # EMAIL_USE_TLS = True
 
